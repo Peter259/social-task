@@ -1,0 +1,32 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.navbar-static-top {
+	background-color: #ececfc;
+	border-bottom-width: 2px;
+	border-top-width: 2px;
+}
+
+.panel-heading {
+	background-color: #f0f0ff !important;
+}
+
+body {
+	background-image: url('../img/grid.jpg');
+}
+
+a.fb-login-btn {
+	display: none;
+}
+
+div.form-group.register-form,
+div.form-group.login-form {
+	height: 170px;
+}

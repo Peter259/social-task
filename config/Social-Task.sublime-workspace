@@ -1,0 +1,1384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"inv",
+				"invoice"
+			],
+			[
+				"te",
+				"testDate"
+			],
+			[
+				"date",
+				"dateFixed"
+			],
+			[
+				"req",
+				"reqs"
+			],
+			[
+				"wher",
+				"WHERE"
+			],
+			[
+				"tra",
+				"Transaction"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"re",
+				"reqlogs"
+			],
+			[
+				"a",
+				"acc"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"A",
+				"Accounting"
+			],
+			[
+				"Req",
+				"Reqlog"
+			],
+			[
+				"las",
+				"lastNo"
+			],
+			[
+				"YE",
+				"year"
+			],
+			[
+				"ret",
+				"retVal"
+			],
+			[
+				"sz",
+				"szamlak"
+			],
+			[
+				"sza",
+				"szamla"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"szam",
+				"szamlak"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"s",
+				"szamla"
+			],
+			[
+				"U",
+				"USD"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"floa",
+				"float"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"cRet",
+				"cRetVal"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"stru",
+				"strtoupper"
+			],
+			[
+				"strlo",
+				"strtolower"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"My",
+				"MyClass"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"dom",
+				"DomainExt"
+			],
+			[
+				"Doma",
+				"DomainExt"
+			],
+			[
+				"r",
+				"Route"
+			],
+			[
+				"de",
+				"_dEx"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"np_",
+				"np_name"
+			],
+			[
+				"lc",
+				"lcNap"
+			],
+			[
+				"newspaper",
+				"newspaper_id"
+			],
+			[
+				"by",
+				"BY"
+			],
+			[
+				"ord",
+				"ORDER"
+			],
+			[
+				"utf8",
+				"utf8_hungarian_ci"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"mai",
+				"MainSearch"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"aja",
+				"ajaxTableTH"
+			],
+			[
+				"thi",
+				"thisField"
+			],
+			[
+				"data",
+				"dataField"
+			],
+			[
+				"asc",
+				"asc_desc"
+			],
+			[
+				"bacgr",
+				"background-color"
+			],
+			[
+				"dec",
+				"dechex"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"sessio",
+				"session_destroy"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"tm",
+				"tmpAllocationItem"
+			],
+			[
+				"all",
+				"AllocationItem"
+			],
+			[
+				"stoc",
+				"stock_ids"
+			],
+			[
+				"cate",
+				"Category"
+			],
+			[
+				"sto",
+				"stockinhand"
+			],
+			[
+				"S",
+				"Stockinhand"
+			],
+			[
+				"stocki",
+				"Stockinhand"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"lap",
+				"setLapConSelect"
+			],
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"subsr",
+				"substr"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"partner",
+				"partnerForm"
+			],
+			[
+				"Part",
+				"partnerForm"
+			],
+			[
+				"par",
+				"partner"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"bg-c",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"setti",
+				"setTimeout"
+			],
+			[
+				"fw-",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"aler",
+				"virAlert"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"cur",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ise",
+				"IsEmpty"
+			],
+			[
+				"za",
+				"Zaro"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"Ban",
+				"bankszamla"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"session_",
+				"session_start"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"fw",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"USE",
+				"userID"
+			],
+			[
+				"bre",
+				"break"
+			],
+			[
+				"js",
+				"jsr"
+			],
+			[
+				"sesion",
+				"session_id"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"focu",
+				"focused"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"x",
+				"xVal"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"border-bott",
+				"border-bottom-color"
+			],
+			[
+				"utc",
+				"Utca"
+			],
+			[
+				"var",
+				"Varos"
+			],
+			[
+				"ir",
+				"Irsz"
+			],
+			[
+				"part",
+				"Partner"
+			],
+			[
+				"me",
+				"Message"
+			],
+			[
+				"le",
+				"letter-spacing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp64/www/social-task/resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 2807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/docs/proba_feladat.txt",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.php",
+			"settings":
+			{
+				"buffer_size": 9246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services.php",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 560,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/package.json",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/social-task/public/css/app.css",
+		"/C/wamp64/www/social-task/public/css/style.css",
+		"/C/wamp64/www/social-task/.env",
+		"/C/wamp64/www/social-task/resources/views/layouts/app.blade.php",
+		"/C/wamp64/www/social-task/bootstrap/app.php",
+		"/C/wamp64/www/social-task/config/compile.php",
+		"/C/wamp64/www/config_olvasd.el",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/C/wamp_php_5_512/bin/apache/Apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/wamp64/www/social-task/config/mail.php",
+		"/C/wamp64/www/social-task/storage/logs/laravel.log",
+		"/C/wamp64/www/social-task/docs/proba_feladat.txt",
+		"/C/wamp64/www/social-task/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/social-task/resources/assets/sass/app.scss",
+		"/C/wamp64/www/social-task/config/app.php",
+		"/C/wamp64/www/social-task/config/database.php",
+		"/C/wamp64/bin/apache/apache2.4.23/bin/php.ini",
+		"/C/wamp64/www/social-task/.env.example",
+		"/C/wamp64/www/social-task-p/app/Http/Controllers/SocialAuthController.php",
+		"/C/Users/mPC1/Downloads/readme.txt",
+		"/C/Users/mPC1/Downloads/_Full_backup_before_upgrading_to_PHP7_2016-01-12/SQL_DB_Save_2016-01-12/SQL_Non-SzamlaDepo/lapcon_szekszard.sql",
+		"/C/wamp64/www/lapkon/app/controllers/NewsagentController.php",
+		"/C/wamp64/www/lapkon/app/models/Newsagent.php",
+		"/C/wamp64/www/lapkon/app/controllers/NewspaperController.php",
+		"/C/wamp_php_5_512/config_olvasd.el",
+		"/C/wamp/docs/spec.txt",
+		"/C/Users/mPC1/Documents/A felvételi eljárásban következő lépésként egy teszt feladat megoldását szeretnénk kérni Tőled.txt",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/PP.txt",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/olvasd.el",
+		"/C/8/MnbController.php",
+		"/C/8/Usd.php",
+		"/C/8/Vat.php",
+		"/C/wamp/bin/apache/Apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/bin/apache/Apache2.4.9/conf/extra/hosts",
+		"/C/8/henyir-style.less",
+		"/C/8/henyir.js",
+		"/C/8/helpers.php",
+		"/C/wamp/www/szamladepo/app/Models/Vat.php",
+		"/C/wamp/www/szamladepo/app/Models/Usd.php",
+		"/C/wamp/www/szamladepo/app/Http/routes.php",
+		"/C/wamp/www/szamladepo/app/Http/helpers.php",
+		"/C/wamp/www/szamladepo/app/Http/Controllers/Auth/PasswordController.php",
+		"/C/wamp/www/szamladepo/app/Http/Controllers/BufferedController.php",
+		"/C/wamp/www/szamladepo/app/Http/Controllers/ApiController.php",
+		"/C/wamp/www/szamladepo/app/Http/Controllers/SzamladepoController.php",
+		"/C/wamp/www/szamladepo/app/Http/Controllers/DemoController.php",
+		"/C/wamp/www/blog/app/Http/routes.php",
+		"/C/wamp/www/blog/config/app.php",
+		"/C/wamp/www/blog/config/database.php",
+		"/C/wamp/www/0/test/public/index.php",
+		"/C/wamp/www/0/test/public/robots.txt",
+		"/C/wamp/www/szamladepo/server.php",
+		"/C/wamp/www/0/test/routes/console.php",
+		"/C/wamp/www/szamladepo/app/User.php",
+		"/C/Mac_Development/6_Top100/hosts.txt",
+		"/C/Users/mPC1/Downloads/reqlog_items_2016-10-31-ig.sql",
+		"/C/Users/mPC1/Downloads/reqlog_2016-10-31-ig.sql",
+		"/C/Users/mPC1/Downloads/usd_2016_11_11-ig.sql",
+		"/C/wamp/www/szamladepo/storage/inv/buffered_649103/2016/3nev_rossz/olvasd.el",
+		"/C/Users/mPC1/Downloads/transaction_search_2016-3nev.csv",
+		"/C/Users/mPC1/Downloads/transaction_full.csv",
+		"/C/Users/mPC1/Documents/CV_Miki/CoverLetter_to_KHB.txt",
+		"/C/Users/mPC1/Downloads/reqlog_items (1).sql",
+		"/C/Users/mPC1/Downloads/reqlog (1).sql",
+		"/C/Users/mPC1/Downloads/transaction_search_2016-10-01-ig.csv",
+		"/C/Users/mPC1/Downloads/transaction_search(1).csv",
+		"/C/Users/mPC1/Downloads/transaction_search_2016-08-20_2016-09-05.csv",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction_search_2016-09.csv",
+		"/C/Users/mPC1/Downloads/transaction_search (2).csv",
+		"/C/Users/mPC1/Downloads/transaction_search.csv",
+		"/C/Users/mPC1/Downloads/transaction_search_2016-09.csv",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction_search.csv",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction_full.csv",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction_search (1).csv",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction_search (2).csv",
+		"/C/Users/mPC1/AppData/Local/Temp/_tc/HTTPSMS-PHP/readme.txt",
+		"/C/Users/mPC1/Homestead/Vagrantfile.",
+		"/C/Users/mPC1/.homestead/Homestead.yaml",
+		"/C/install/win10.psw",
+		"/C/Users/mPC1/shiftreg_ideas.txt",
+		"/C/Users/mPC1/Downloads/reqlog_2016-09-01-ig.sql",
+		"/C/Users/mPC1/Downloads/transaction_search2.csv",
+		"/C/Users/mPC1/AppData/Local/Temp/_tc/tpartnerszamlafogadas/index.php",
+		"/C/Users/mPC1/AppData/Local/Temp/_tc/app/helpers.php",
+		"/C/Program Files/CEWE/CEWE Fotovilag/Resources/help/hilfe_und_tour/index.html",
+		"/C/lv/Vagrantfile.",
+		"/C/Users/mPC1/Downloads/usd_2016-09-12.sql",
+		"/C/wamp/www/szamladepo/app/Http/Controllers/MnbController.php",
+		"/C/wamp/www/szamladepo_teszt/class.szamladepo.php",
+		"/C/wamp/www/szamladepo/config/database.php",
+		"/C/Users/mPC1/Downloads/sql/lapcon_szekszard.sql",
+		"/C/wamp/before_install.txt",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction_search2.csv",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/ts.csv",
+		"/C/Users/mPC1/Downloads/reqlog_items_20160501-20160730.sql",
+		"/C/Users/mPC1/Downloads/reqlog_20160501-20160730.sql",
+		"/C/wamp/www/szamladepo/storage/inv/buffered_649103/2016/buff-2016-02-aib.csv",
+		"/C/wamp/www/szamladepo/app/Models/Buffered_649103/Transaction.php",
+		"/C/wamp/www/szamladepo/db/szamladepo_649103.sql",
+		"/C/Users/mPC1/Downloads/szamladepo_649103.sql",
+		"/E/szamladepo/db/szamladepo.sql",
+		"/C/wamp/www/szamladepo/db/Old/szamladepo_649103 (2).sql",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/C/wamp/alias/phpmyadmin.conf",
+		"/C/wamp/bin/php/php5.5.12/php.ini",
+		"/E/szamladepo/db/Old/szamladepo (2).sql",
+		"/C/Users/mPC1/Downloads/szamladepo.sql",
+		"/C/wamp/www/szamladepo/db/Old/szamladepo (2).sql",
+		"/C/wamp/www/szamladepo/db/Old/usd_2016-08-19-ig.sql",
+		"/C/wamp/www/html5/index.php",
+		"/C/Users/mPC1/Downloads/szamladepo_649103 (2).sql",
+		"/C/wamp/www/szamladepo/storage/inv/buffered_649103/2016/buff-2016-02-pp.csv",
+		"/C/wamp/www/szamladepo/storage/inv/buffered_649103/2016/buff-2016-01-pp.csv",
+		"/C/wamp/www/szamladepo/storage/inv/buffered_649103/2016/2016-08/VadaszGPeter43315911_navadatszolg.xml",
+		"/C/wamp/www/GarDev/d3_xtz_datetime_funcs.php",
+		"/C/wamp/www/szamladepo/app/Models/Buffered_649103/Accounting.php",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction.sql",
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/send.py",
+		"/C/wamp/www/szamladepo/docs/Buffered/szerverrol_2016-08-18/usd.sql",
+		"/C/Users/mPC1/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/lapcon_conversion/import_partner_newsagent.php",
+		"/C/wamp/www/lapcon_conversion/import_newspapers.php",
+		"/C/wamp/www/ProgHU_Test/index.php",
+		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/LICENSE",
+		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/AUTHORS",
+		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/langcover.txt",
+		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/unicover.txt",
+		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/status.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"red;",
+			":red",
+			"red",
+			"date.timezone",
+			"/wamp/",
+			"models",
+			"modelsManager",
+			"extensions",
+			"exten",
+			"w/vir",
+			"vir",
+			"\n<VirtualHost *:80>\n    DocumentRoot \"c:/wamp/www/blog/public\"\n    ServerName blog.lh\n</VirtualHost>\n",
+			"`reqlog_items`",
+			"`reqlog`",
+			"Cardholder Name",
+			"08/08",
+			"08/20",
+			"cet",
+			"created",
+			"/",
+			"(",
+			"_",
+			" ",
+			"09/05",
+			"09/01",
+			"10/01",
+			"10/02",
+			"10/10",
+			"10/01",
+			"09/30",
+			"09/01",
+			"08/01",
+			"1/08",
+			"filla",
+			"agent",
+			"`reqlog_items`",
+			"`reqlog`",
+			");\n",
+			"add_invoice",
+			"on add",
+			"add",
+			"on add",
+			"filla",
+			"saveLog",
+			"transaction_time",
+			"H:",
+			"dd(",
+			"dd",
+			"00:",
+			"`reqlog_items`",
+			"`reqlog`",
+			"lastday",
+			"$firstDay",
+			"		$",
+			"$lastDay",
+			"firstDay",
+			"conv",
+			"csv",
+			"dateFixed",
+			"saveLog",
+			"convtrans",
+			"convtr",
+			"package",
+			"convtr",
+			"savelog",
+			"Hónap",
+			"','",
+			"CREATE TABLE `",
+			"`transaction_aib`",
+			"CREATE TABLE `",
+			"CREATE TABLE `tran",
+			"CREATE TABLE `",
+			"`transaction_aib`",
+			"CREATE TABLE `",
+			"CREATE TABLE `transaction",
+			"CREATE TABLE",
+			"CREATE TABLE ` ",
+			"post_",
+			"post_max_size",
+			"alter",
+			"saveLog",
+			"settle",
+			"SettlementDate",
+			"truncate",
+			"g-tr",
+			"fill",
+			">';\n",
+			"month",
+			"pp_payer_email",
+			"convTrans",
+			"csv",
+			"partneradr3",
+			"	$",
+			");\n",
+			"mp2",
+			"Tmp",
+			"tmp",
+			"new Reqlog;",
+			"saveLog",
+			"createStruct",
+			"\n		",
+			"createStruct",
+			"etest",
+			"AddInvoice",
+			"package",
+			"AddInvoice",
+			"addAccRow",
+			"						$",
+			"addAccRow",
+			". '</td>';",
+			"td>",
+			"createStruct",
+			"AddInvoice",
+			"trunca",
+			"createStruct",
+			"$items[$i]",
+			"bank_account_no",
+			"'];\n",
+			"dd",
+			"raw",
+			"db",
+			"->all()",
+			"ReqlogTmp",
+			"use",
+			"Trasaction",
+			"csvTest",
+			"convtrans",
+			"\n\n	// -----------------------------------------------\n	// 		Make CSV-File from Accounting Table\n	// -----------------------------------------------\n	public function csvTest() {\n\n		$aa = new BufferedController;\n\n		$aa->makeCSV('PP', '2016-01');\n\n		return;\n	}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"`reqlog_items_2016-10-01-ig`",
+			"`reqlog_2016-10-01-ig`",
+			"_",
+			"`reqlog_items6`",
+			"`reqlog6`",
+			"`reqlog_items5`",
+			"`reqlog5`",
+			". $br . '</td>';",
+			"th>",
+			"$items[0]",
+			"VARCHAR(128) NOT NULL,",
+			"` VARCHAR(1024) NOT NULL,\n	`",
+			"` VARCHAR(1024) NOT NULL,\n`",
+			" VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n` VARCHAR(1024) NOT NULL,\n` VARCHAR(1024) NOT NULL,\n` VARCHAR(1024) NOT NULL,\n	`",
+			" VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n` VARCHAR(1024) NOT NULL,\n` VARCHAR(1024) NOT NULL,\n` VARCHAR(1024) NOT NULL,",
+			" VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n`,  VARCHAR(1024) NOT NULL`",
+			" VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n` VARCHAR(1024) NOT NULL,`",
+			" VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,\n VARCHAR(1024) NOT NULL,",
+			"`,`",
+			"aaa",
+			"`,`",
+			"'",
+			"/",
+			"$r",
+			"$tDate",
+			"_USD",
+			"$invNo",
+			"=>	$szamla->aaaaa,",
+			"`usd_2016`",
+			"$inRec['items']",
+			"$nItem",
+			"$aReqLog",
+			"$aReqKey",
+			"$aKey",
+			"`usd`",
+			"$USD",
+			"] = ",
+			"$j",
+			"",
+			"->",
+			"$response",
+			"",
+			"$ip",
+			"$req->",
+			"$nUrl",
+			"newsagent",
+			"`.`",
+			",",
+			"day",
+			"'",
+			",",
+			"<option value=\"1\">",
+			"'",
+			"",
+			"'l'",
+			"<li class=\"disabled\"><a onclick=\"return false;\" href=\"/\">",
+			" &nbsp; (F)",
+			"DeliveryAdress",
+			"<td>{{partners.",
+			"cMenu",
+			"cOrder",
+			"				<tr onclick=\"virPanelOpen_xMod('1-1r', 'Részletezés', 450, 200);\">\n<tr onclick=\"virPanelOpen_xMod('1-1r', 'Részletezés', 450, 200);\">",
+			"td>",
+			"td:nth-child(",
+			"aKtgH",
+			"aKoltsHely",
+			"td:nth-child(",
+			"90",
+			"110",
+			"`c2vir`",
+			"$sOut",
+			"$sIn",
+			"ZaroTS",
+			"Zaro",
+			"Kezdo",
+			"dateKezdo",
+			"Szures",
+			"`c2vir`",
+			"200",
+			"80",
+			"120",
+			"`c2vir`",
+			"strUrl",
+			"strMsg",
+			"Lezarhato",
+			"300",
+			"200",
+			"100",
+			"height",
+			"'';",
+			"Lezarom",
+			"value=\"\"",
+			"`c2vir`",
+			"200",
+			"160",
+			"150",
+			"User",
+			"uID",
+			"sClass",
+			"user",
+			"180",
+			"120",
+			"USER_ROWS",
+			"sep",
+			"sOut",
+			"sIn",
+			"250",
+			"pfhID",
+			"tipus",
+			"140",
+			"240",
+			"140",
+			"200",
+			"th:nth-child(",
+			"120",
+			"80",
+			"100",
+			"virPanelOpen_Mod",
+			"center",
+			"'",
+			"virPanelOpen_Partner_Mod",
+			"virPanelOpen_modPartner",
+			"virPanelOpen_ModPartner",
+			"100",
+			"70",
+			"300",
+			"60",
+			"120"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp64/www/social-task/resources/assets/sass/app.scss",
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp64/www/social-task/resources/views/home.blade.php",
+					"settings":
+					{
+						"buffer_size": 411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp64/www/social-task/resources/views/welcome.blade.php",
+					"settings":
+					{
+						"buffer_size": 2807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2313,
+								2313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2050.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp64/www/social-task/docs/proba_feladat.txt",
+					"settings":
+					{
+						"buffer_size": 1716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app.php",
+					"settings":
+					{
+						"buffer_size": 9246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9241,
+								9241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6834.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "services.php",
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								996,
+								996
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp64/www/social-task/gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp64/www/social-task/resources/views/layouts/app.blade.php",
+					"settings":
+					{
+						"buffer_size": 3414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3298,
+								3294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/wamp64/www/social-task/package.json",
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"acco",
+				"szamladepo/app/Models/Buffered_649103/Accounting.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/SublimeText_2/Fritella.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true
+}

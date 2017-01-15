@@ -1,0 +1,32 @@
+A felvételi eljárásban következő lépésként egy teszt feladat megoldását szeretnénk kérni Tőled. 
+
+Értékelési szempontok: 
+Eloquent struktúra és kapcsolatok
+Nagy mennyiségű adat kezelése esetén mutatott teljesítmény 
+Facebook API integrálásának ismerete 
+Reguláris kifejezések használata 
+
+
+Hozzon létre egy új laravel projektet social-task néven.
+
+Egyszerű felhasználói felületet hozzon létre melyre email és jelszó kombinációval vagy "Facebook Login” opcióval jelentkezhet be a felhasználó. (Socialite) 
+
+Bejelentkezés után a fő (és egyetlen) oldalon listázza a felhasználó összes (Facebook fiókja létrehozása óta létrehozott) /feed tartalmát, amennyiben képet tartalmaz a bejegyzés úgy a képet is jelenítse meg. (Media objects) 
+
+A tartalmat lokális adatbázisba mentse el. 
+
+Az oldal tartalmazzon egy egyszerű szabadszavas keresőt, mely a teljes tartalomban (összes bejegyzés) keres (dátum, státusz üzenet). 
+
+A kereső funkció megvalósításához VueJS vagy AngularJS könyvtárakat (is) használja (persze jQuery is használható, de lehetőség szerint törekedj adatvezérelt gondolkodásra) 
+
+A felhasználói felület létrehozásakor használhat Bootstrap keretrendszert is, ha nem használ keretendszert úgy a CSS a viselkedés beállításához Flexboxot használj. (A külalak nem elsődleges szempont, Backend fejleszőt keresünk) 
+
+A feladatot GitHub publikus repository-n adja be valamint rövid Markdown dokumentációval lássa el. 
+
+P.S.: A feladatot a telefonos beszélgetésünkhoz mérten az Amazon S3 API helyett inkább Facebook API-t válaszottam, így nem szükséges az 5.3-mat telepítened.
+
+
+Segítség:
+https://laravel.com/
+https://developers.facebook.com/docs/graph-api/reference/v2.8/user/feed
+https://github.com/laravel/socialite
