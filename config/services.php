@@ -35,10 +35,10 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
 
-    'facebook' => [
-        'client_id' => '1155283797926444',
-        'client_secret' => '76f80e1af31df8bd0129b8c00611d723',
-        'redirect' => 'http://social-task.dev/auth/facebook/callback',
+    'facebook' => [     //  My Facebook App Auth Details
+        'client_id'     =>  env('FACEBOOK_APP_ID'),
+        'client_secret' =>  env('FACEBOOK_APP_SECRET'),
+        'redirect'      =>  env('APP_URL').'auth/facebook/callback',
     ],
 
 ];

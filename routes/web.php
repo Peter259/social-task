@@ -21,5 +21,9 @@ Auth::routes();
 Route::get('/home', 'HomeController@index');
 Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout');
 
+
+/*
+ * Facebook Routes for Login and Callback
+ */
 Route::get('auth/facebook', 'Auth\RegisterController@redirectToProvider');
 Route::get('auth/facebook/callback', 'Auth\RegisterController@handleProviderCallback');

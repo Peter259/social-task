@@ -8,7 +8,23 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in!
+                    <b>You are logged in!</b>
+                    <br><br>
+                    @foreach($response->getDecodedBody()['data'] as $item)
+                        @foreach($item as $key => $value)
+                            @if ($key == 'full_picture')
+                                <img src="{{$value}}">
+                                <br>
+                            @elseif($key == 'created_time')
+                                {{date('F jS, Y h:i:s', strtotime($value))}}
+                                <br>
+                            @else
+                                {{$key}}: {{$value}}
+                                <br>
+                            @endif
+                        @endforeach
+                        <br>
+                    @endforeach
                 </div>
             </div>
         </div>

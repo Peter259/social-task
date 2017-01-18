@@ -520,6 +520,14 @@
 	"buffers":
 	[
 		{
+			"file": "/C/wamp64/www/social-task/docs/proba_feladat.txt",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "/C/wamp64/www/social-task/resources/assets/sass/app.scss",
 			"settings":
 			{
@@ -539,39 +547,7 @@
 			"file": "/C/wamp64/www/social-task/resources/views/welcome.blade.php",
 			"settings":
 			{
-				"buffer_size": 2807,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/wamp64/www/social-task/docs/proba_feladat.txt",
-			"settings":
-			{
-				"buffer_size": 1716,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app.php",
-			"settings":
-			{
-				"buffer_size": 9246,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "services.php",
-			"settings":
-			{
-				"buffer_size": 1167,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/wamp64/www/social-task/gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 560,
+				"buffer_size": 2893,
 				"line_ending": "Unix"
 			}
 		},
@@ -584,10 +560,42 @@
 			}
 		},
 		{
-			"file": "/C/wamp64/www/social-task/package.json",
+			"file": "/C/wamp64/www/social-task/routes/web.php",
 			"settings":
 			{
-				"buffer_size": 402,
+				"buffer_size": 655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/lapcon/public/assets/js/lapcon.js",
+			"settings":
+			{
+				"buffer_size": 8695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/lapcon/resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 13986,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/.gitignore",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/social-task/.env",
+			"settings":
+			{
+				"buffer_size": 548,
 				"line_ending": "Unix"
 			}
 		}
@@ -644,6 +652,20 @@
 	},
 	"file_history":
 	[
+		"/C/wamp64/www/szamladepo/app/Http/helpers.php",
+		"/C/wamp64/bin/apache/apache2.4.23/bin/php.ini",
+		"/C/wamp64/www/social-task/app/Http/helpers.php",
+		"/C/wamp64/www/social-task/public/js/social-task.js",
+		"/C/wamp64/www/social-task/resources/views/auth/passwords/reset.blade.php",
+		"/C/wamp64/www/social-task/public/js/app.js",
+		"/C/wamp64/www/social-task/config/services.php",
+		"/C/wamp64/www/social-task/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/social-task/app/Http/Controllers/Auth/LoginController.php",
+		"/C/wamp64/www/social-task/config/app.php",
+		"/C/wamp64/www/social-task/gulpfile.js",
+		"/C/wamp64/www/social-task/package.json",
+		"/C/wamp64/www/social-task/composer.json",
+		"/C/wamp64/www/social-task/composer.lock",
 		"/C/wamp64/www/social-task/public/css/app.css",
 		"/C/wamp64/www/social-task/public/css/style.css",
 		"/C/wamp64/www/social-task/.env",
@@ -656,11 +678,8 @@
 		"/C/wamp64/www/social-task/config/mail.php",
 		"/C/wamp64/www/social-task/storage/logs/laravel.log",
 		"/C/wamp64/www/social-task/docs/proba_feladat.txt",
-		"/C/wamp64/www/social-task/app/Http/Controllers/HomeController.php",
 		"/C/wamp64/www/social-task/resources/assets/sass/app.scss",
-		"/C/wamp64/www/social-task/config/app.php",
 		"/C/wamp64/www/social-task/config/database.php",
-		"/C/wamp64/bin/apache/apache2.4.23/bin/php.ini",
 		"/C/wamp64/www/social-task/.env.example",
 		"/C/wamp64/www/social-task-p/app/Http/Controllers/SocialAuthController.php",
 		"/C/Users/mPC1/Downloads/readme.txt",
@@ -760,18 +779,7 @@
 		"/C/wamp/www/szamladepo/storage/inv/buffered_649103/2016/2016-08/VadaszGPeter43315911_navadatszolg.xml",
 		"/C/wamp/www/GarDev/d3_xtz_datetime_funcs.php",
 		"/C/wamp/www/szamladepo/app/Models/Buffered_649103/Accounting.php",
-		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction.sql",
-		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/send.py",
-		"/C/wamp/www/szamladepo/docs/Buffered/szerverrol_2016-08-18/usd.sql",
-		"/C/Users/mPC1/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/C/wamp/www/lapcon_conversion/import_partner_newsagent.php",
-		"/C/wamp/www/lapcon_conversion/import_newspapers.php",
-		"/C/wamp/www/ProgHU_Test/index.php",
-		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/LICENSE",
-		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/AUTHORS",
-		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/langcover.txt",
-		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/unicover.txt",
-		"/C/Users/mPC1/Downloads/font/dejavu-fonts-ttf-2.36/status.txt"
+		"/C/wamp/www/szamladepo/docs/Buffered/Gergo/transaction.sql"
 	],
 	"find":
 	{
@@ -790,6 +798,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"curl",
+			"alert",
+			"file",
 			"red;",
 			":red",
 			"red",
@@ -914,10 +925,7 @@
 			"->all()",
 			"ReqlogTmp",
 			"use",
-			"Trasaction",
-			"csvTest",
-			"convtrans",
-			"\n\n	// -----------------------------------------------\n	// 		Make CSV-File from Accounting Table\n	// -----------------------------------------------\n	public function csvTest() {\n\n		$aa = new BufferedController;\n\n		$aa->makeCSV('PP', '2016-01');\n\n		return;\n	}\n"
+			"Trasaction"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1063,93 +1071,11 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 9,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/wamp64/www/social-task/resources/assets/sass/app.scss",
-					"settings":
-					{
-						"buffer_size": 416,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								301,
-								301
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/wamp64/www/social-task/resources/views/home.blade.php",
-					"settings":
-					{
-						"buffer_size": 411,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								244,
-								285
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/wamp64/www/social-task/resources/views/welcome.blade.php",
-					"settings":
-					{
-						"buffer_size": 2807,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2313,
-								2313
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2050.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "/C/wamp64/www/social-task/docs/proba_feladat.txt",
 					"settings":
 					{
@@ -1175,67 +1101,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "app.php",
+					"buffer": 1,
+					"file": "/C/wamp64/www/social-task/resources/assets/sass/app.scss",
 					"settings":
 					{
-						"buffer_size": 9246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9241,
-								9241
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 6834.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "services.php",
-					"settings":
-					{
-						"buffer_size": 1167,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								996,
-								996
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 722.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/wamp64/www/social-task/gulpfile.js",
-					"settings":
-					{
-						"buffer_size": 560,
+						"buffer_size": 416,
 						"regions":
 						{
 						},
@@ -1248,7 +1118,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1257,7 +1127,63 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 2,
+					"file": "/C/wamp64/www/social-task/resources/views/home.blade.php",
+					"settings":
+					{
+						"buffer_size": 411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp64/www/social-task/resources/views/welcome.blade.php",
+					"settings":
+					{
+						"buffer_size": 2893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1800,
+								1800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2018.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "/C/wamp64/www/social-task/resources/views/layouts/app.blade.php",
 					"settings":
 					{
@@ -1268,8 +1194,8 @@
 						"selection":
 						[
 							[
-								3298,
-								3294
+								3193,
+								3193
 							]
 						],
 						"settings":
@@ -1279,17 +1205,97 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1728.0,
+						"translation.y": 1536.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp64/www/social-task/routes/web.php",
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								654,
+								654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp64/www/lapcon/public/assets/js/lapcon.js",
+					"settings":
+					{
+						"buffer_size": 8695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp64/www/lapcon/resources/views/layouts/master.blade.php",
+					"settings":
+					{
+						"buffer_size": 13986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								374,
+								374
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 8,
-					"file": "/C/wamp64/www/social-task/package.json",
+					"file": "/C/wamp64/www/social-task/.gitignore",
 					"settings":
 					{
-						"buffer_size": 402,
+						"buffer_size": 95,
 						"regions":
 						{
 						},
@@ -1302,9 +1308,33 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/wamp64/www/social-task/.env",
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

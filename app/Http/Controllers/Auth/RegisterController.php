@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
 use Laravel\Socialite\Facades\Socialite;
+use Facebook\Facebook;
 
 class RegisterController extends Controller
 {
@@ -87,6 +88,7 @@ class RegisterController extends Controller
      */
     public function handleProviderCallback($provider='facebook')
     {
+
         try {
             $socialUser = Socialite::driver($provider)->user();
         }
@@ -96,9 +98,7 @@ class RegisterController extends Controller
 
         $user = User::where('facebook_id', $socialUser->getId())->first();
 
-//        dd($user);
-
-        if (!$user) {
+        if (!$user) {   // Create if Fb-User doesn't exist
             User::create([
                 'facebook_id' =>  $socialUser->getId(),
                 'name'        =>  $socialUser->getName(),
